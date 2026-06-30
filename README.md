@@ -3,4 +3,4 @@ My project is for learning about Git.
 ## Author 
 Fatimah Alyami 
 
-Footer:Thank you!
+Footer:Updated on master

@@ -1,4 +1,4 @@
-My Git Project 
+My Git project 
 My project is for learning about Git.
 ## Author 
 Fatimah Alyami 

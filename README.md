@@ -5,3 +5,6 @@ Fatimah Alyami
 
 Footer:Updated on master
 Footer:Created on feature/change-footer
+
+## About 
+This project is for practicing.
